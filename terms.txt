@@ -1,0 +1,7 @@
+This tool is provided for educational and legal penetration testing purposes ONLY.
+
+Usage without proper authorization is strictly prohibited and may lead to legal consequences.
+
+By typing 'yes' you agree:
+- You have legal permission to test the target numbers.
+- You accept full responsibility for your actions.
