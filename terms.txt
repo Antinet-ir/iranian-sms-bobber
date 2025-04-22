@@ -1,7 +1,28 @@
-This tool is provided for educational and legal penetration testing purposes ONLY.
+🛑 Terms of Use | شرایط استفاده
 
-Usage without proper authorization is strictly prohibited and may lead to legal consequences.
+English:
+----------
+This software is provided for educational and ethical research purposes only.
 
-By typing 'yes' you agree:
-- You have legal permission to test the target numbers.
-- You accept full responsibility for your actions.
+By using this tool, you agree to the following:
+- You will not use it against any individual, service, or organization without full permission.
+- You understand and accept that the author holds no responsibility for any misuse, damage, or legal consequences resulting from your actions.
+- You acknowledge that this tool demonstrates potential vulnerabilities in public OTP APIs.
+
+Unauthorized or malicious use of this tool is illegal and unethical.
+
+Farsi (فارسی):
+--------------
+این نرم‌افزار صرفاً برای اهداف آموزشی و تحقیقات اخلاقی منتشر شده است.
+
+با استفاده از این ابزار، شما موافقت می‌کنید که:
+- از آن علیه هیچ فرد، سرویس یا سازمانی بدون رضایت کامل استفاده نکنید.
+- درک می‌کنید و می‌پذیرید که نویسنده هیچ‌گونه مسئولیتی در قبال استفاده‌ی نادرست، آسیب احتمالی یا تبعات قانونی آن ندارد.
+- تأیید می‌کنید که این ابزار فقط برای نمایش آسیب‌پذیری‌های احتمالی در APIهای عمومی ارسال OTP توسعه داده شده است.
+
+هرگونه استفاده‌ی غیرمجاز یا مخرب از این ابزار، **غیراخلاقی و غیرقانونی** است.
+
+----------
+
+By continuing, you accept these terms.
+با ادامه دادن، شما این شرایط را می‌پذیرید.
