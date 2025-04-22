@@ -8,6 +8,7 @@ By using this tool, you agree to the following:
 - You will not use it against any individual, service, or organization without full permission.
 - You understand and accept that the author holds no responsibility for any misuse, damage, or legal consequences resulting from your actions.
 - You acknowledge that this tool demonstrates potential vulnerabilities in public OTP APIs.
+- **All responsibilities arising from use of this tool — including but not limited to legal, ethical, or security consequences — lie solely with the user.**
 
 Unauthorized or malicious use of this tool is illegal and unethical.
 
@@ -19,10 +20,11 @@ Farsi (فارسی):
 - از آن علیه هیچ فرد، سرویس یا سازمانی بدون رضایت کامل استفاده نکنید.
 - درک می‌کنید و می‌پذیرید که نویسنده هیچ‌گونه مسئولیتی در قبال استفاده‌ی نادرست، آسیب احتمالی یا تبعات قانونی آن ندارد.
 - تأیید می‌کنید که این ابزار فقط برای نمایش آسیب‌پذیری‌های احتمالی در APIهای عمومی ارسال OTP توسعه داده شده است.
+- **تمام مسئولیت‌های ناشی از استفاده از این ابزار — از جمله و نه محدود به تبعات قانونی، اخلاقی، یا امنیتی — کاملاً بر عهده‌ی کاربر است.**
 
 هرگونه استفاده‌ی غیرمجاز یا مخرب از این ابزار، **غیراخلاقی و غیرقانونی** است.
 
 ----------
 
-By continuing, you accept these terms.
+By continuing, you accept these terms.  
 با ادامه دادن، شما این شرایط را می‌پذیرید.
